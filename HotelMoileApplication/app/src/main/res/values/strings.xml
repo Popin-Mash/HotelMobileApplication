@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hotel Moile Application</string>
+    <string name="login_to_hetel_mobile_app">Login to Hetel Mobile App</string>
+    <string name="username" />
+    <string name="password" />
+</resources>
